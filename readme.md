@@ -7,7 +7,7 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/alsiam"><img src="[https://readme-typing-svg.herokuapp.com/](https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/c56789e5fe24d6212a4af3399c5345c9~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1708592400&x-signature=PjW4o77HRTSyU9b7grd%2Bl%2BXBnK0%3D)?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
